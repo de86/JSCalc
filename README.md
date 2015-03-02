@@ -1,2 +1,2 @@
-# JSCalc
-Calculator created with HTML, CSS and pure Javascript.
+# jsCalc
+Calculator created with HTML, CSS Javascript and jQuery.
